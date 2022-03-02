@@ -1,0 +1,29 @@
+.headContent {
+    height: 150px;
+    max-height: 250px;
+    background-color: #eee;
+    text-align: center;
+}
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    height: 50px;
+    margin-right: 100px;
+    
+    
+}
+button {
+    padding: 5px;
+    margin: 5px;
+    text-align: baseline;
+    border: none;
+}
+.portada {
+    background-image: url('jjwebdeveloper.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    max-height: 400px;
+
+}
